@@ -1,3 +1,7 @@
+# Team Members:
+Ali Gamal
+Hana Hussein
+
 # Visual-Interpretation-of-CNN
 
 We used VGG-16 pre-trained model to classify 3 images and interpret the output using different interpretation techniques:
