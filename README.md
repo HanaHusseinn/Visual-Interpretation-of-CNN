@@ -1,7 +1,9 @@
 # Team Members:
-Ali Gamal
 
 Hana Hussein
+
+Ali Gamal
+
 
 # Visual-Interpretation-of-CNN
 
@@ -17,6 +19,7 @@ Then we checked our insights about the filters by:
 
 
 a) Visualization of Intermediate Activations
+
 b) Visualization of Filters
 
 
